@@ -1,7 +1,6 @@
 {
   "Post": {
     "title": { "user": "salah" },
-    }
   },
   "Comment": {
     "body": { "string": {} },
